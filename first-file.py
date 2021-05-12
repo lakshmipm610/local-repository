@@ -11,3 +11,6 @@ plt.plot(x,y**2)
 
 plt.plot(x,y**3)
 
+#lakshmi's commit
+
+plt.plot(x,y**4)
