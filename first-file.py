@@ -4,4 +4,9 @@ import matplotlib.pyplot as plt
 x = np.arange(0,100,1)
 y = np.sin(x)
 
+
 plt.plot(x,y)
+
+plt.plot(x,y**2)
+
+
