@@ -9,4 +9,5 @@ plt.plot(x,y)
 
 plt.plot(x,y**2)
 
+plt.plot(x,y**3)
 
